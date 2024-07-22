@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/saini-anisha/saini-anisha/blob/main/WhatsApp%20Image%202024-07-23%20at%201.29.47%20AM.jpeg)
 <h1 align="center">Hi 👋, I'm Anisha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width="400" src="https://jonchaisson.com/wp-content/uploads/2020/12/k-on.gif?w=640">
